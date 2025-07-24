@@ -12,7 +12,8 @@ This Power BI project is designed to analyze and visualize key metrics from the 
 # How to analyse the data
 
 1️⃣ Data Understanding
-1.Load your dataset: Home > Get Data > Excel/CSV/Database
+1.Load your dataset: Home > Get Data > Excel/CSV/Database.
+
 2.Inspect tables: In Data View, check data types, nulls, and outliers.
 3.Rename columns: Use clear, meaningful names.
 4.Check summary stats: Right-click columns → Column Quality, Column Distribution.
