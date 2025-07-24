@@ -1,7 +1,10 @@
 # Power-BI-UK BANK DATA ANALYSIS DASHBOARD 
- //Project Description:-
+
+Project Description:-
+
 This Power BI project is designed to analyze and visualize key metrics from the given dataset. The goal is to gain actionable business insights through interactive dashboards, drill-through reports, and visual storytelling.
-// project structure:
+
+project structure:
 📦 Project Root
  ┣ 📁 Data
  ┃ ┗ 📄 data.xlsx (or .csv)
